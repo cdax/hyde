@@ -1,5 +1,5 @@
 {
-  "name": "vy",
+  "name": "hyde",
   "version": "0.0.1",
   "description": "Bare-bones blogging engine written in Node.js",
   "main": "index.js",
